@@ -1,6 +1,7 @@
 # LLMs for Sentiment Analysis
 
 FINE-TUNING LLM MODLES for SENTIMENTAL ANALYSIS
+- Based On: https://huggingface.co/blog/sentiment-analysis-python
 - Using HuggingFace
 - LLM: "distilbert-base-uncased"
 - Fine-Tune Dataset: "imdb"
