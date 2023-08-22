@@ -7,6 +7,8 @@ FINE-TUNING LLM MODLES for SENTIMENTAL ANALYSIS
 - Fine-Tune Dataset: "imdb"
 - Train Dataset Size: 25000 Reviews
 - Test Dataset Size: 25000 Reviews
+- Analysis File: 
+Fine_tune_a_pre_trained_model_for_sentiment_analysis.ipynb
 
 Results:
 - Based on 25K/25K and 2 Epochs
